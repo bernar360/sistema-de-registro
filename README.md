@@ -5,3 +5,5 @@
  Paraejecutar el sistema, debes poner:
 
  ```npm install react```
+
+sitema de registro 2
